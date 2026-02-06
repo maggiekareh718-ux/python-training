@@ -14,6 +14,7 @@ students=tuple(students)
 print(type(students))
 print(students)
 
+
 #add 'John' between Mary and Luke
 students=list(students)
 print(type(students))
@@ -39,5 +40,7 @@ days(3)="Thur"#modify
 print(days)
 days=tuple(days)#convert to tuple
 print(days)
+
+print("something new")
 
 
